@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Jansen-Killinger-Cara/serv_crud/issues"
   },
-  "homepage": "https://github.com/Jansen-Killinger-Cara/serv_crud#readme"
+  "homepage": "https://github.com/Jansen-Killinger-Cara/serv_crud#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
